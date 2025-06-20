@@ -37,6 +37,7 @@ It will start at:
 http://localhost:8080/api/employees
 
 💻 Frontend Setup (React)
+Online link https://myapp-3aeef.web.app
 Open ems-frontend in VS Code.
 
 Make sure Node.js is installed.
